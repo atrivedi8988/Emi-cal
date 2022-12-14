@@ -1,7 +1,7 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const fs = require("fs");
-const UserModel = require("./users.Schema")
+const UserModel = require("./users.Schema.js")
 
 
 
